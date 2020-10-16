@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+}
+
+.container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: fixed;
+    align-items: center;
+    justify-content: center;
+    color: lime;
+    font-family: "Blackout";
+    font-size: 55px;
+
+}
+
+@import url(//db.onlinewebfonts.com/c/c54778885c1c75dfee95c47abef40635?family=Blackout);
+
+@font-face {
+    font-family: "Blackout";
+    src: url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.eot");
+    src: url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.woff") format("woff"), url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/c54778885c1c75dfee95c47abef40635.svg#Blackout") format("svg");
+}
